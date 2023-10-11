@@ -1,0 +1,22 @@
+1. Free online:
+https://www.python.org/
+https://www.youtube.com/@ClearCode/playlists
+https://www.youtube.com/@freecodecamp/featured
+https://www.riverbankcomputing.com/
+https://pypi.org/project/pygame/
+https://www.pygame.org/docs/
+https://github.com/pygame
+https://leetcode.com
+
+2. Literature:
+English grammar in use 3d or 4th edition
+Pro Git https://git-scm.com/book/ru/v2
+Роберт Мартин "Идеальный программист"
+Роберт Мартин "Чистый код"
+Роберт Мартин "Чистая архитектура"
+Бхаргава Адитья "Грокаем Алгоритмы"
+Томас Кормен и др. "Алгоритмы. Построение и анализ" 3-е и 4-е издание
+Стив Макконнелл "Совершенный код"
+Марк Лурц "Изучаем Python" Том. 1, 2
+
+
